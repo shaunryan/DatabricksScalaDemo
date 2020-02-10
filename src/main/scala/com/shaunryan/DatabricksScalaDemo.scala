@@ -4,7 +4,7 @@ import org.apache.spark.sql.SparkSession
 import com.databricks.dbutils_v1.DBUtilsHolder.dbutils
 
 object DatabricksScalaTutorial {
-  def main() {
+  def doStuff() {
     val spark = SparkSession
       .builder()
       .master("local")
