@@ -1,0 +1,4 @@
+[debug] [databricksscalatutorial-test] Classpath dependencies List()
+[debug] [databricksscalatutorial-test] Dependencies from configurations List(databricksscalatutorial)
+[debug] Bloop wrote the configuration of project 'databricksscalatutorial-test' to '/Users/shaunryan/code/azuredataplatform/DatabricksScalaTutorial/.bloop/databricksscalatutorial-test.json'
+[success] Generated .bloop/databricksscalatutorial-test.json
